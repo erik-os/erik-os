@@ -1,5 +1,6 @@
 # Your .iso is good to go, from ErikOS?
 
+<a href="https://os.erikhub.com/">Get ErikOS .iso file now</a>
 
 ## Get started installing ErikOS
 
@@ -10,3 +11,8 @@
   ### 5. Now you are on ErikOS
 
   
+## How to get your .iso
+
+ ### 1. Enter to the next link: https://os.erikhub.com/
+ ### 2. Tap on download with icloud
+ ### 3. Now you tap the button that says download on icloud.
