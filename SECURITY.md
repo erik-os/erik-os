@@ -26,6 +26,16 @@ For example, you can update, that why it doesnt have update, because the securit
 | ------- | ------------------ |
 | 14.3   | :white_check_mark: |
 
+## Finishing updates on ErikOS 14, a new era: ErikOS 15
+
+In 2026 this summer, ErikOS 14 will end support, even the security one, please update once ErikOS 15 is released.
+
+| Version | Supported          |
+| ------- | ------------------ |
+| 14.3   | :white_check_mark: (Soon stop updating) |
+| 14.6   | :clock1: (Last ErikOS 14 update, release on april)  |
+| 15   | :clock1: (Release on 2026 summer) |
+
 ## Reporting a Vulnerability
 
 Use this section to tell people how to report a vulnerability.
