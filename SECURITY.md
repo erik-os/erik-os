@@ -33,7 +33,7 @@ In 2026 this summer, ErikOS 14 will end support, even the security one, please u
 | Version | Supported          |
 | ------- | ------------------ |
 | 14.3   | :white_check_mark: (Soon stop updating) |
-| 14.6   | :clock1: (Last ErikOS 14 update, release on april)  |
+| 14.6   | :clock1: (Last ErikOS 14 update, release on May of 2026)  |
 | 15   | :clock1: (Release on 2026 summer) |
 
 ## Reporting a Vulnerability
