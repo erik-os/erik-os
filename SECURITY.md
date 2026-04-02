@@ -8,7 +8,7 @@ Here you have all the version with security update
 | ------- | ------------------ |
 | 14.2   | :x: |
 | 14.1   | :x:                |
-| 14.3   | :white_check_mark: |
+| 14.3   | :white_check_mark: (Ending on april) |
 | 14.4 (Flex)   | :white_check_mark: |
 | <14.0   | :x:                |
 
