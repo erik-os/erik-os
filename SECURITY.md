@@ -33,14 +33,5 @@ In 2026 this summer, ErikOS 14 will end support, even the security one, please u
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 14.3   | :white_check_mark: (Soon stop updating) |
-| 14.6   | :clock1: (Last ErikOS 14 update, release on May of 2026)  |
+| 14.3   | :white_check_mark: (Last update of ErikOS 14, soon stop updating) |
 | 15   | :clock1: (Release on 2026 summer) |
-
-## Reporting a Vulnerability
-
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
