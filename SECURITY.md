@@ -11,7 +11,7 @@ Here you have all the version with security update
 | 14.3   | :white_check_mark: (Ending on august) |
 | 14.4 (Flex)   | :white_check_mark: |
 | <14.0   | :x:                |
-| 15   | :clock1: (Release in august 2026) |
+| 15   | :clock1: (Delayed release) |
 
 
 ## How our updates work and why we dont have security support on old updates
@@ -36,4 +36,4 @@ In 2026 this summer, ErikOS 14 will end support, even the security one, please u
 | Version | Supported          |
 | ------- | ------------------ |
 | 14.3   | :white_check_mark: (Last update of ErikOS 14, soon stop updating) |
-| 15   | :clock1: (Release on august 2026) |
+| 15   | :clock1: (Delayed release) |
