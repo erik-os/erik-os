@@ -16,5 +16,5 @@
 ## How to get your .iso
 
  ### 1. Enter to the next link: https://os.erikhub.com/
- ### 2. Tap on download with icloud
+ ### 2. Tap on download for your plataform
  ### 3. Now you tap the button that says download on icloud.
