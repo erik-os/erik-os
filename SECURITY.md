@@ -22,12 +22,24 @@ If you are in:
 | ------- | ------------------ |
 | 14.2   | :x: |
 
+
+
 For example, you can update, that why it doesnt have update, because the security update is the next one, the *14.3*
 
 | Version | Supported          |
 | ------- | ------------------ |
 | 14.3   | :white_check_mark: (Ending on august) |
 | 15   | :white_check_mark: |
+
+## Erik Mini update range
+
+If you are in:
+
+| Version | Supported          |
+| ------- | ------------------ |
+| 14.4 (Flex)   | :white_check_mark: |
+| 15   | :x: (only security updates for 14.4) |
+
 
 ## Finishing updates on ErikOS 14, a new era: ErikOS 15
 
